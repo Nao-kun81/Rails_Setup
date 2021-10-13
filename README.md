@@ -1,4 +1,4 @@
-# tup Ruby on Rails(2021/10)
+# Ruby on Rails環境構築 (windows 2021/10)
 
 # 環境構築の全体の流れを紹介します。  
 ・Rubyのダウンロード  
