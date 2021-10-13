@@ -1,6 +1,6 @@
 # Ruby on Rails環境構築 (windows 2021/10)
 
-# 環境構築の全体の流れを紹介します。  
+# 環境構築の手順  
 ・Rubyのダウンロード  
 ・SQLite3のインストール  
 ・Bundlerのインストール  
