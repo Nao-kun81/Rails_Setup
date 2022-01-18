@@ -34,7 +34,7 @@ Windowsが64bit版の方は(×64)を、32bit版の方は(×86)を選択してく
 「sqlite-dll-win-×64-3360000.zip」(32bitは×86) >> 「sqlite3.dll」 >> 「C:Ruby￥bin」にコピペ  
 「sqlite-tools-win32-x86-3360000.zip」 >> 「sqlite3.exe」と「sqlite3_analyzer.exe」 >> 「C:Ruby￥bin」にコピペ  
 
-そしたらコマンドプロンプトで「gem install sqlite3」を実行してSQLite3をインストールします。完了したら「sqlite3 --version」でバージョンが確認できたら完了です。  
+そしたらコマンドプロンプトで「gem install sqlite3」を実行してSQLite3をインストールします。完了したら「sqlite3 -version」でバージョンが確認できたら完了です。  
 
 ## 【Bundlerのインストール】  
 Bundelerのインストールは非常に簡単でコマンドプロンプトで下記のコマンドを実行してください。  
